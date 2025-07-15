@@ -14,13 +14,7 @@ A clean and modern **To-Do List Android App** built with Java in Android Studio.
 
 ---
 
-## 📸 Screenshots
 
-### 🔐 Login Page
-![Login Page](https://raw.githubusercontent.com/premkanths/ToDoListApp/main/Images/login_page.jpg)
-
-### ✅ Main Page
-![Main Page](https://raw.githubusercontent.com/premkanths/ToDoListApp/main/Images/main_page.jpg)
 
 ---
 
@@ -55,7 +49,7 @@ A clean and modern **To-Do List Android App** built with Java in Android Studio.
 Pull requests and suggestions are welcome!
 Let’s make this app better together 🚀
 
-📬 Connect With Me
+📬 Connect With Me with preamsrinivas081@gmail.com
 👨‍💻 LinkedIn
 
 🌐 My Portfolio
@@ -64,9 +58,12 @@ Made with ❤️ by Premkanth KS
 
 ---
 
-Let me know if:
-- You want me to help take screenshots to upload to GitHub
-- You want GitHub Pages for a portfolio version
-- Or help writing your **GitHub bio** or **contribution graph**
 
-Ready to go global with your app? 🌍
+---
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](https://raw.githubusercontent.com/premkanths/ToDoListApp/main/Images/login_page.jpg)
+
+### ✅ Main Page
+![Main Page](https://raw.githubusercontent.com/premkanths/ToDoListApp/main/Images/main_page.jpg)
